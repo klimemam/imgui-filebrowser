@@ -24,4 +24,4 @@ viewer の File Browse パネルを、他のホストからもリンクできる
 
 ## ライセンス
 
-未定(viewer 本体のライセンス方針に従う。決まるまで All rights reserved)。
+Apache License 2.0([LICENSE](LICENSE))。viewer 本体と同じ(2026-08-17 裁定)。
